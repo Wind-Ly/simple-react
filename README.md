@@ -1,3 +1,3 @@
 # simple-react
-Beginner of React
+Beginner of React,
 HELLO WORK REACT!
